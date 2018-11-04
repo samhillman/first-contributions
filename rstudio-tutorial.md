@@ -25,10 +25,16 @@ Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download),
 
 Fork this repo by clicking on the fork button on the top of this page.
 
-<img width="500" src="assets/fork.png" alt="fork this repository" alt="Git"  style = "display: inline;"  />
+<img width="500" src="assets/fork.png" alt="fork this repository" style = "display: inline;"  />
 <br/>
 
-This will create of copy of this repository in your account.
+This will create of copy of this repository in your account and you will be redirected to this version of the repo.
+
+You now need to get the URL for your repo.  Click "Clone or download" and copy the URL in the box.
+
+<img width="500" src="assets/rstudio-gh-clone.png" alt="clone the repo" style = "display: inline;"  />
+<br/>
+
 
 ## Create a new project
 
